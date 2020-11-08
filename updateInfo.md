@@ -1,2 +1,3 @@
-- Enhanced for tvOS 14
-- Integrate neural network for engine analysis
+- Support for localizations: German, Simplified Chinese and Traditional Chinese
+- Update the neural network
+- Bug fixes and stability improved
