@@ -1,3 +1,1 @@
-- Support for localizations: German, Simplified Chinese and Traditional Chinese
-- Update the neural network
-- Bug fixes and stability improved
+- Stability improved
