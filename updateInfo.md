@@ -1,2 +1,2 @@
-- Update the neural network
+- Enhanced for tvOS 15
 - Bug fixes and stability improved
