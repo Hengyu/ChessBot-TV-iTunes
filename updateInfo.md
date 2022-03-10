@@ -1,2 +1,1 @@
-- Enhance app accessibility
 - Bug fixes and stability improved
