@@ -1,2 +1,2 @@
-- Enhanced for tvOS 15
+- Enhance app accessibility
 - Bug fixes and stability improved
