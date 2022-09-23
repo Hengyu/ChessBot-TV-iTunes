@@ -1,1 +1,1 @@
-- Enhanced for tvOS 16
+- Bug fixes and stability improved
