@@ -1,3 +1,5 @@
-- Optimize the first-time user experience
-- Fix the issue where the main menu bar title is empty
-- Fix the issue where the chess game file name does not match
+Introducing ChessBot 8.0:
+
+- New designed chess game interface
+- New designed chess puzzle interface
+- Reduce app size and improve stability
